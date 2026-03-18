@@ -3,8 +3,9 @@ A screensaver for Mac that allows you to choose a video to play as your screensa
 
 ## To install
 1. Download the repository
-2. Double click the DrMartyMcWhoSaver.saver to install
-3. Accept any prompts
+2. Unzip the file
+3. Double click the DrMartyMcWhoSaver.saver to install
+4. Accept any prompts
 
 ## How to Configure
 1. In System Settings > Screen Saver select the DrMartyMcWhoSaver from Other
