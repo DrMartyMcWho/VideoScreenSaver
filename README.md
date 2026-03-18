@@ -1,3 +1,5 @@
+<div align="center"><img src="https://cartelera.elpais.com/assets/uploads/2018/11/12120553/F_09063.jpg" alt="Cartelera de Cine EL PAÍS"></div>
+
 # DrMartyMcWho's MacOS Video Screen Saver
 A screensaver for Mac that allows you to choose any video to play as your screensaver for as many monitors as you have.  It automatically detects how many monitors you have and lets you choose multiple videos for each screen.  Currently works on MacOS Sequoia (15), but hasn't been tested on other MacOS versions.
 
